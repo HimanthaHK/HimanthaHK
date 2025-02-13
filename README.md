@@ -1,6 +1,14 @@
-## Hi there, I'm Himantha Kaushalya! 👋
+## Hi there, I'm
 
-![Welcome Banner](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+<p align="center">
+  <svg width="400" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" fill="none" stroke="#764ba2" stroke-width="1" font-family="Arial, sans-serif">
+      <animate attributeName="stroke-dasharray" from="0, 300" to="300, 0" dur="3s" repeatCount="indefinite"/>
+      Himantha Kaushalya
+    </text>
+  </svg>
+</p>
+
 
 ### 🌟 About Me  
 
@@ -22,6 +30,4 @@
 ![Himantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanthaHK&show_icons=true&theme=radical)
 
 ---
-
-### 🎉 Fun Animation:  
 ![Coding Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
